@@ -1,0 +1,16 @@
+.navBar{
+    width:100vw;
+    height:6vh;
+    background-color: #020402;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+}
+.leftSide{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    width:30vw;
+
+}
