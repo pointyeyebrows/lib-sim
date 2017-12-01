@@ -1,0 +1,9 @@
+CREATE TABLE books(
+id SERIAL PRIMARY KEY,
+title TEXT,
+author TEXT,
+genre TEXT,
+description TEXT,
+imgUrl TEXT,
+stock BOOLEAN
+)
